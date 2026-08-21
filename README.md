@@ -4,12 +4,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |

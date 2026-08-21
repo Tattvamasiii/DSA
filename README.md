@@ -9,6 +9,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
 ## Binary Search
@@ -27,6 +28,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -35,5 +37,6 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

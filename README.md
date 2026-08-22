@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -39,6 +40,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0344-reverse-string](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -77,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->

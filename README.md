@@ -9,6 +9,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,11 +33,13 @@
 | [0347-top-k-frequent-elements](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

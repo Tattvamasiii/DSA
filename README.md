@@ -98,4 +98,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->

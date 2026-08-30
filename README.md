@@ -105,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
@@ -123,9 +124,11 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

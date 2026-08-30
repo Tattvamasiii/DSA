@@ -104,6 +104,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -113,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->

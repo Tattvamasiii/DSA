@@ -1,28 +1,51 @@
-// This doesn't uses Backtracking !!!!
 
 class Solution {
+
     public List<List<Integer>> permute(int[] nums) {
-              List<List<Integer>> list = new ArrayList<>();
-        SubPermu(new ArrayList<>(), nums, 0, list);
+
+        List<List<Integer>> list = new ArrayList<>();
+
+        // Start recursion from index 0
+        SubPermu(nums, 0, list);
+
         return list;
     }
 
-    static void SubPermu(ArrayList<Integer> p, int[] nums, int index, List<List<Integer>> list) {
+    static void SubPermu(int[] nums, int index, List<List<Integer>> list) {
+
+        // Base case
         if (index == nums.length) {
-            list.add(new ArrayList<>(p));
+
+            // Convert int[] to List<Integer>
+            List<Integer> temp = new ArrayList<>();
+
+            for (int num : nums) {
+                temp.add(num);
+            }
+
+            list.add(temp);
             return;
         }
-        int ch = nums[index];
-        ArrayList<Integer> ans = new ArrayList<>(); // Save it in answer whatever indiviual recusion call is getting
-        for (int i = 0; i <= p.size(); i++) {
-            List<Integer>  f = p.subList(0, i);
-            List<Integer>  s = p.subList(i, p.size());
 
-            ArrayList<Integer> temp = new ArrayList<>();
-            temp.addAll(f);
-            temp.add(ch);
-            temp.addAll(s);
-            SubPermu(temp, nums, index + 1, list );
+        // Try every element from index onwards
+        for (int i = index; i < nums.length; i++) {
+
+            // 1. CHOOSE
+            swap(nums, index, i);
+
+            // 2. EXPLORE
+            SubPermu(nums, index + 1, list);
+
+            // 3. BACKTRACK
+            swap(nums, index, i);
+        }
+    }
+
+    static void swap(int[] nums, int a, int b) {
+
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
     }
 }
-}
+

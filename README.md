@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -114,11 +115,13 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

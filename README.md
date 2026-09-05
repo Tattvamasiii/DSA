@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -124,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
@@ -136,6 +138,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -143,4 +146,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->

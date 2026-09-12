@@ -18,6 +18,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,5 +162,10 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->

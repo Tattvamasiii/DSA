@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tattvamasiii/DSA/tree/main/LeetCode/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
